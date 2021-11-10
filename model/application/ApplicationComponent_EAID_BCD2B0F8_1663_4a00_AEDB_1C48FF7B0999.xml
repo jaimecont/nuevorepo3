@@ -1,0 +1,179 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CONTROL DE LA DIGITALIZACIÓN DE EXP"
+    id="EAID_BCD2B0F8_1663_4a00_AEDB_1C48FF7B0999">
+  <properties
+      key="Distribución"
+      value="Varios"/>
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="No"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Actualización BBDD"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Alto"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Alta"/>
+  <properties
+      key="Coordinador de área"
+      value="Rayco Hernández de León"/>
+  <properties
+      key="Punto de acceso"
+      value="Intranet"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Facilidad de uso"
+      value="Fácil de usar. En general no induce a errores y las pantallas son eficientes"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="Sí"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="Sí"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="No"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Medio"/>
+  <properties
+      key="Versión"
+      value="Interna del centro"/>
+  <properties
+      key="Cambio de configuración"
+      value="Base de Datos de configuraciones"/>
+  <properties
+      key="Nº usuarios"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Nivel de deuda técnica"
+      value="Bajo"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="No"/>
+  <properties
+      key="Gestor Documental"
+      value="Sí"/>
+  <properties
+      key="Herramientas"
+      value="RSA"/>
+  <properties
+      key="Generación de informes"
+      value="SR-BIRT"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Portales"
+      value="No"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="No"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Email"/>
+  <properties
+      key="Logs"
+      value="No se almacenan logs"/>
+  <properties
+      key="Auditorías"
+      value="No"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="No"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Suficiente"/>
+  <properties
+      key="Complejidad del código"
+      value="Media"/>
+  <properties
+      key="Nombre"
+      value="CONTROL DE LA DIGITALIZACIÓN DE EXP"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="No"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Agile"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Alta"/>
+  <properties
+      key="Firma digital"
+      value="Sí"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="Carmen Martínez de Dueñas"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="Laura Dorado"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="María Concepción Castillo Hernández"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Java (Pros@)"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Nula"/>
+  <properties
+      key="Visibilidad"
+      value="Privada"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="10/07/1905"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Apagado"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Más de 15"/>
+  <properties
+      key="Código ROCHADE"
+      value="CODI (CODICE)"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 10.001 y 100.000"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Interfaz JACADA"
+      value="No"/>
+  <properties
+      key="Área funcional"
+      value="COORDINACIÓN Y PROYECTOS"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Ambos"/>
+  <properties
+      key="Gestor de calidad"
+      value="Kiuwan"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Descripción"
+      value="Control de la digitalización de expedientes"/>
+  <properties
+      key="Reutilización de código"
+      value="No"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Tipo de impresión"
+      value="Varias"/>
+</archimate:ApplicationComponent>

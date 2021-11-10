@@ -1,0 +1,200 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CONTROL RECAUDACIÓN PORTAL IMPORT@SS"
+    id="EAID_2E7D55FA_22E6_4e77_890D_B8A0217A43F1">
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="No"/>
+  <properties
+      key="Distribución"
+      value="Web"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Actualización BBDD"/>
+  <properties
+      key="Framework de presentación"
+      value="Otros"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Alto"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Alta"/>
+  <properties
+      key="Coordinador de área"
+      value="Mercedes Nocete Casado"/>
+  <properties
+      key="Facilidad de uso"
+      value="Fácil de usar. En general no induce a errores y las pantallas son eficientes"/>
+  <properties
+      key="Punto de acceso"
+      value="Portales"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="No"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="Sí"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="No"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Versión"
+      value="14/06/2021 V 02.08.06.00.03"/>
+  <properties
+      key="Horas de correctivos en el último año completo"
+      value="0"/>
+  <properties
+      key="Cambio de configuración"
+      value="No es capaz"/>
+  <properties
+      key="Nº usuarios"
+      value="Más de 1.000.000"/>
+  <properties
+      key="Nivel de deuda técnica"
+      value="Bajo"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="No"/>
+  <properties
+      key="Nº de incidencias en el último año completo"
+      value="0"/>
+  <properties
+      key="Gestor Documental"
+      value="Sí"/>
+  <properties
+      key="Herramientas"
+      value="RSA"/>
+  <properties
+      key="Generación de informes"
+      value="SR-BIRT"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Más de 100.000"/>
+  <properties
+      key="Portales"
+      value="Sí"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="Sí"/>
+  <properties
+      key="Tipo de comunicación"
+      value="SEDE"/>
+  <properties
+      key="Auditorías"
+      value="Sí"/>
+  <properties
+      key="Logs"
+      value="No se almacenan logs"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="No"/>
+  <properties
+      key="Complejidad del código"
+      value="Media"/>
+  <properties
+      key="Nombre"
+      value="CONTROL RECAUDACIÓN PORTAL IMPORT@SS"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Suficiente"/>
+  <properties
+      key="Horas de evolutivos en el último año completo"
+      value="0"/>
+  <properties
+      key="Framework de lógica de negocio"
+      value="Pros@"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="No"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Agile"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Alta"/>
+  <properties
+      key="Firma digital"
+      value="No"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="María Luisa Castillo Lavado"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Más de 100.000"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="Jose Antonio Cañaveral Peñaranda"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="Sandra Suárez Feijóo – Jose Carlos Coronado – Ismael Sanz Ayuso"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Natural + Java (Pros@)"/>
+  <properties
+      key="Nº de peticiones en el último año completo"
+      value="0"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Baja"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Visibilidad"
+      value="Ambas"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="14/06/2021"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Entre 1 y 5"/>
+  <properties
+      key="Código ROCHADE"
+      value="Aplicación: RAPI, PORTLETS: RAP1 , RAP2, RAP3, RAP4, RAP5 , Contenerdor en Producción Portal Importass"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 10.001 y 100.000"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Área funcional"
+      value="CONTROL DE RECAUDACIÓN"/>
+  <properties
+      key="Interfaz JACADA"
+      value="No"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Online"/>
+  <properties
+      key="Gestor de calidad"
+      value="Kiuwan"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Descripción"
+      value="Conjunto de portlets que se integran dentro del portal Importass, en el que se permite modificar el número de cuenta existente en la Teso Recaudación, también permite consultar las coberturas de cada usuario, hacer una simulación de lo que podría costar contratar a una persona como empleada de hogar."/>
+  <properties
+      key="Horas de soporte"
+      value="0"/>
+  <properties
+      key="Reutilización de código"
+      value="Sí"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Tipo de impresión"
+      value="Online"/>
+  <properties
+      key="Nº de subidas de correctivos/evolutivos a producción en el último año completo"
+      value="0"/>
+</archimate:ApplicationComponent>

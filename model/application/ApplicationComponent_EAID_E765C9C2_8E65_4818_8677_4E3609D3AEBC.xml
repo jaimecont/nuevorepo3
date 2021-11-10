@@ -1,0 +1,203 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SERVICIOS WEB"
+    id="EAID_E765C9C2_8E65_4818_8677_4E3609D3AEBC">
+  <properties
+      key="Horas de correctivos en el último año completo"
+      value="0"/>
+  <properties
+      key="Cambio de configuración"
+      value="No es capaz"/>
+  <properties
+      key="Nº usuarios"
+      value="Entre 100.001 y 1.000.000"/>
+  <properties
+      key="Nivel de deuda técnica"
+      value="Medio"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="No"/>
+  <properties
+      key="Nº de incidencias en el último año completo"
+      value="0"/>
+  <properties
+      key="Gestor Documental"
+      value="No"/>
+  <properties
+      key="Herramientas"
+      value="Varias"/>
+  <properties
+      key="Generación de informes"
+      value="N/A"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Portales"
+      value="No"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="No"/>
+  <properties
+      key="Logs"
+      value="Repositorio de logs"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Varios"/>
+  <properties
+      key="Auditorías"
+      value="Sí"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="No"/>
+  <properties
+      key="Nombre"
+      value="SERVICIOS WEB"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Necesita reforzarse"/>
+  <properties
+      key="Complejidad del código"
+      value="Alta"/>
+  <properties
+      key="Horas de evolutivos en el último año completo"
+      value="100"/>
+  <properties
+      key="Framework de lógica de negocio"
+      value="Pros@"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="No"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Agile"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Baja"/>
+  <properties
+      key="Firma digital"
+      value="No"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="Manuel García García"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="César Magaña Carro"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="Mª Paz Mateos Barrado"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Otras"/>
+  <properties
+      key="Nº de peticiones en el último año completo"
+      value="3"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Media"/>
+  <properties
+      key="Visibilidad"
+      value="Privada"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="IAE1 01/04/2015IAE2 20/05/2015IAE3 03/03/2015IAE4 29/04/2015IEA5 24/06/2015IAE6 24/06/2016VILA 29/06/2015AFNO 16/05/2017CGDO 21/07/2014CGSI 24/07/2014AFVL 04/12/2017AFGJ 23/07/2015AFGS 29/12/2015AFMT 13/05/2016AFDT 15/12/2016CGCC 17/07/2014AAGR 15/07/2014ALFC 17/03/2014ALFI 22/04/2014CPRO 25/07/2014ISTG 11/03/2015"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Entre 1 y 5"/>
+  <properties
+      key="Código ROCHADE"
+      value="IAE1, IAE2, IAE3, IAE4, IAE5, IAE6, VILA, AFNO, CGDO, CGSI, AFVL, AFGJ, AFGS, AFMT, AFDT, CGCC, AAGR, ALFC, ALFI, CPRO, ISTG"/>
+  <properties
+      key="Distribución"
+      value="Web"/>
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="No"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Solo consulta"/>
+  <properties
+      key="Framework de presentación"
+      value="Otros"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Bajo"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Baja"/>
+  <properties
+      key="Coordinador de área"
+      value="Carlos Herran Añón"/>
+  <properties
+      key="Punto de acceso"
+      value="Varias"/>
+  <properties
+      key="Facilidad de uso"
+      value="Fácil de usar. En general no induce a errores y las pantallas son eficientes"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="No"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="Sí"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="Sí"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Medio"/>
+  <properties
+      key="Versión"
+      value="IAE1 V02.00.08.00 01/06/2015IAE2 V02.00.08.00 04/02/2021IAE2 V02.01.02.00 04/02/2021IAE3 V02.01.06.00 04/02/2021IAE4 V01.03.04.00 05/10/2018IAE5 V02.01.03.01 04/02/2021IAE6 V01.01.03.00 27/08/020VILA V01.05.00.01 20/06/2021AFNO V01.01.00.00 25/10/2020CGDO V01.02.01.00 27/02/2020CGSI V01.02.00.00 07/03/2016AFVL V01.03.00.00 17/02/2021AFGJ V01.02.00.00 25/11/2016AFGS V01.00.01.00 06/04/2016AFMT V01.00.04.01 14/05/2019AFDT V01.01.00.00 11/04/2017CGCC V01.05.00.00 07/03/2017AAGR V01.05.00.00 27/04/2015ALFC V01.09.00.00 29/06/2017ALFI V01.15.00.00 04/02/2021CPRO V01.01.00.00 23/02/2015ISTG V01.04.00.00 27/09/2016"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Área funcional"
+      value="AFILIACIÓN"/>
+  <properties
+      key="Interfaz JACADA"
+      value="No"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Online"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="No"/>
+  <properties
+      key="Gestor de calidad"
+      value="Ninguna"/>
+  <properties
+      key="Descripción"
+      value="Los servicios web que conforman esta unidad migrable son de distintos tipos. En algunos casos son servicios clientes de información, en otros casos son proveedores de información obtenida a través de consultas a módulos Natural."/>
+  <properties
+      key="Horas de soporte"
+      value="10"/>
+  <properties
+      key="Tipo de impresión"
+      value="N/A"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Reutilización de código"
+      value="Sí"/>
+  <properties
+      key="Nº de subidas de correctivos/evolutivos a producción en el último año completo"
+      value="3"/>
+</archimate:ApplicationComponent>
