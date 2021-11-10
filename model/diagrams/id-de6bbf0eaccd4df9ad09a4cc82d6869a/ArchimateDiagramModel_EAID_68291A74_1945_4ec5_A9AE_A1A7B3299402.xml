@@ -157,40 +157,10 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_1D0E_467b_804A_B9C42F639997"
-      targetConnections="EAID_DC000000_5E05_4bcb_A3AA_7D638EDBA9B7"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#5c5c5c"
       fillColor="#ffffb5"
       textPosition="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="EAID_DC000000_5E05_4bcb_A3AA_7D638EDBA9B7"
-        source="EAID_DN000000_1D0E_467b_804A_B9C42F639997"
-        target="EAID_DN000000_1D0E_467b_804A_B9C42F639997">
-      <bendpoints
-          startX="60"
-          startY="-2"
-          endX="60"
-          endY="-2"/>
-      <bendpoints
-          startX="90"
-          startY="-2"
-          endX="90"
-          endY="-2"/>
-      <bendpoints
-          startX="90"
-          startY="-17"
-          endX="90"
-          endY="-17"/>
-      <bendpoints
-          startX="60"
-          startY="-17"
-          endX="60"
-          endY="-17"/>
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_EAID_71F23BF0_5E05_4bcb_A3AA_7D638EDBA9B7.xml#EAID_71F23BF0_5E05_4bcb_A3AA_7D638EDBA9B7"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000000_E1AE_474d_997A_081400D4577C"
@@ -668,7 +638,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_31E4_4977_9D5E_415D95BA21E7"
-      targetConnections="EAID_DC000000_6E10_4381_B5D1_14DEC92EFD1F"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#5c5c5c"
       fillColor="#ffffb5"
@@ -689,35 +658,6 @@
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_EAID_06F0B689_A8AE_4c14_B38E_964AC872CC23.xml#EAID_06F0B689_A8AE_4c14_B38E_964AC872CC23"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="EAID_DC000000_6E10_4381_B5D1_14DEC92EFD1F"
-        source="EAID_DN000000_31E4_4977_9D5E_415D95BA21E7"
-        target="EAID_DN000000_31E4_4977_9D5E_415D95BA21E7">
-      <bendpoints
-          startX="60"
-          startY="-2"
-          endX="60"
-          endY="-2"/>
-      <bendpoints
-          startX="90"
-          startY="-2"
-          endX="90"
-          endY="-2"/>
-      <bendpoints
-          startX="90"
-          startY="-17"
-          endX="90"
-          endY="-17"/>
-      <bendpoints
-          startX="60"
-          startY="-17"
-          endX="60"
-          endY="-17"/>
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_EAID_FB5FFA99_6E10_4381_B5D1_14DEC92EFD1F.xml#EAID_FB5FFA99_6E10_4381_B5D1_14DEC92EFD1F"/>
     </sourceConnections>
     <bounds
         x="2652"
