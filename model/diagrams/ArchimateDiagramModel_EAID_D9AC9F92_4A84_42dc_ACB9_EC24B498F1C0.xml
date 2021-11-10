@@ -13,15 +13,6 @@
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="EAID_DC000000_A636_4af8_9253_0C43CACFB8E3"
-        source="EAID_DN000000_D0F4_4824_8E95_AB2BA464A121"
-        target="EAID_DN000001_559F_434c_AADC_58672CFB74D5">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_EAID_C9364A63_A636_4af8_9253_0C43CACFB8E3.xml#EAID_C9364A63_A636_4af8_9253_0C43CACFB8E3"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000000_6050_4355_B185_22974DC17E8A"
         source="EAID_DN000000_D0F4_4824_8E95_AB2BA464A121"
         target="EAID_DN000000_B7B7_42f8_ADF3_BC5E3454D865">
@@ -102,7 +93,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000001_559F_434c_AADC_58672CFB74D5"
-      targetConnections="EAID_DC000000_A636_4af8_9253_0C43CACFB8E3"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#5c5c5c"
       fillColor="#c9e7b7"

@@ -23,7 +23,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_CDDF_4d53_A620_A4C541CF9184"
-      targetConnections="EAID_DC000000_F122_4848_8B39_7706F3B1A2C7"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#5c5c5c"
       fillColor="#ffffb5"
@@ -45,35 +44,6 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_EAID_0404987A_2439_4583_8D39_B30DA57005C5.xml#EAID_0404987A_2439_4583_8D39_B30DA57005C5"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="EAID_DC000000_F122_4848_8B39_7706F3B1A2C7"
-        source="EAID_DN000000_CDDF_4d53_A620_A4C541CF9184"
-        target="EAID_DN000000_CDDF_4d53_A620_A4C541CF9184">
-      <bendpoints
-          startX="60"
-          startY="-2"
-          endX="60"
-          endY="-2"/>
-      <bendpoints
-          startX="90"
-          startY="-2"
-          endX="90"
-          endY="-2"/>
-      <bendpoints
-          startX="90"
-          startY="-17"
-          endX="90"
-          endY="-17"/>
-      <bendpoints
-          startX="60"
-          startY="-17"
-          endX="60"
-          endY="-17"/>
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_EAID_08EFC9D1_F122_4848_8B39_7706F3B1A2C7.xml#EAID_08EFC9D1_F122_4848_8B39_7706F3B1A2C7"/>
-    </sourceConnections>
     <bounds
         x="1"
         y="180"
@@ -86,40 +56,10 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_FDAE_4e96_A9C2_2279D60EB74C"
-      targetConnections="EAID_DC000000_F71E_485a_AC0D_45C43F8A9CAF"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#5c5c5c"
       fillColor="#ffffb5"
       textPosition="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="EAID_DC000000_F71E_485a_AC0D_45C43F8A9CAF"
-        source="EAID_DN000000_FDAE_4e96_A9C2_2279D60EB74C"
-        target="EAID_DN000000_FDAE_4e96_A9C2_2279D60EB74C">
-      <bendpoints
-          startX="60"
-          startY="-2"
-          endX="60"
-          endY="-2"/>
-      <bendpoints
-          startX="90"
-          startY="-2"
-          endX="90"
-          endY="-2"/>
-      <bendpoints
-          startX="90"
-          startY="-17"
-          endX="90"
-          endY="-17"/>
-      <bendpoints
-          startX="60"
-          startY="-17"
-          endX="60"
-          endY="-17"/>
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_EAID_8DDB28F4_F71E_485a_AC0D_45C43F8A9CAF.xml#EAID_8DDB28F4_F71E_485a_AC0D_45C43F8A9CAF"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000000_9120_4f24_8611_4C57192AF0DD"
