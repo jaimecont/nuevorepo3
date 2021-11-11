@@ -1,0 +1,188 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DEVOLUCIÓN INGRESOS INDEBIDOS"
+    id="EAID_42FC337C_8387_470e_877C_5CDC10E3BBB8">
+  <properties
+      key="Distribución"
+      value="Varios"/>
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="Sí"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Actualización BBDD"/>
+  <properties
+      key="Framework de presentación"
+      value="Otros"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Muy alto"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Media"/>
+  <properties
+      key="Coordinador de área"
+      value="Elisa Orbegozo de Castro"/>
+  <properties
+      key="Punto de acceso"
+      value="Otros"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Facilidad de uso"
+      value="Fácil de usar. En general no induce a errores y las pantallas son eficientes"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="Sí"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="Sí"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="Sí"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Versión"
+      value="20/07/2021"/>
+  <properties
+      key="Cambio de configuración"
+      value="No es capaz"/>
+  <properties
+      key="Nº usuarios"
+      value="Más de 1.000.000"/>
+  <properties
+      key="Nivel de deuda técnica"
+      value="Bajo"/>
+  <properties
+      key="Nº de incidencias en el último año completo"
+      value="14"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="No"/>
+  <properties
+      key="Gestor Documental"
+      value="Sí"/>
+  <properties
+      key="Herramientas"
+      value="JCL"/>
+  <properties
+      key="Generación de informes"
+      value="Varios"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Portales"
+      value="Sí"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="No"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Varios"/>
+  <properties
+      key="Logs"
+      value="No se almacenan logs"/>
+  <properties
+      key="Auditorías"
+      value="Sí"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="No"/>
+  <properties
+      key="Nombre"
+      value="DEVOLUCIÓN INGRESOS INDEBIDOS"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Suficiente"/>
+  <properties
+      key="Complejidad del código"
+      value="Media"/>
+  <properties
+      key="Framework de lógica de negocio"
+      value="Otros"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="Sí"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Tradicional"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Media"/>
+  <properties
+      key="Firma digital"
+      value="Sí"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="Héctor de Blás Beorlegui"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="Mercedes González Campo"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="Adolfo Bellver Álvarez"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Natural"/>
+  <properties
+      key="Nº de peticiones en el último año completo"
+      value="43"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Nula"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Visibilidad"
+      value="Pública"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="01/03/1998"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Más de 15"/>
+  <properties
+      key="Código ROCHADE"
+      value="RD01, RD02 y RD03"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Área funcional"
+      value="SEGUIMIENTO DE LA DEUDA"/>
+  <properties
+      key="Interfaz JACADA"
+      value="Sí"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Ambos"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Gestor de calidad"
+      value="TPAI"/>
+  <properties
+      key="Descripción"
+      value="Esta unidad migrable gestiona las devoluciones de importes indebidamente ingresados, puediendo compensar deuda si la hay. Además crea y gestiona los documentos contables de las devoluciones y la comunicación con Pagos y con Intervención."/>
+  <properties
+      key="Tipo de impresión"
+      value="Varias"/>
+  <properties
+      key="Reutilización de código"
+      value="Sí"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+</archimate:ApplicationComponent>

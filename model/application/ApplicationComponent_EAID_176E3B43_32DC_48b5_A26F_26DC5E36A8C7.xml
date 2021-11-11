@@ -1,0 +1,179 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DOMICILIACIÓN EN CUENTA NATURAL"
+    id="EAID_176E3B43_32DC_48b5_A26F_26DC5E36A8C7">
+  <properties
+      key="Distribución"
+      value="Mainframe"/>
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="No"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Actualización BBDD"/>
+  <properties
+      key="Framework de presentación"
+      value="Otros"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Alto"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Alta"/>
+  <properties
+      key="Coordinador de área"
+      value="Mercedes Nocete Casado"/>
+  <properties
+      key="Punto de acceso"
+      value="Intranet"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Facilidad de uso"
+      value="Difícil de usar. Las pantallas son complejas e induce a algunos errores"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="No"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="No"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="No"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Cambio de configuración"
+      value="No es capaz"/>
+  <properties
+      key="Nº usuarios"
+      value="Entre 10.001 y 100.000"/>
+  <properties
+      key="Nivel de deuda técnica"
+      value="Alto"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="No"/>
+  <properties
+      key="Gestor Documental"
+      value="Sí"/>
+  <properties
+      key="Herramientas"
+      value="Varias"/>
+  <properties
+      key="Generación de informes"
+      value="Varios"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 10.001 y 100.000"/>
+  <properties
+      key="Portales"
+      value="No"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="No"/>
+  <properties
+      key="Logs"
+      value="No se generan logs"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Varios"/>
+  <properties
+      key="Auditorías"
+      value="No"/>
+  <properties
+      key="Complejidad del código"
+      value="Baja"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Suficiente"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="No"/>
+  <properties
+      key="Nombre"
+      value="DOMICILIACIÓN EN CUENTA NATURAL"/>
+  <properties
+      key="Framework de lógica de negocio"
+      value="Mainframe"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="No"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Tradicional"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Media"/>
+  <properties
+      key="Firma digital"
+      value="Sí"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="María Luisa Castillo Lavado"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="David Rascon"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="Pilar Ruiperez Sánchez"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Natural"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Nula"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Visibilidad"
+      value="Pública"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Más de 15"/>
+  <properties
+      key="Código ROCHADE"
+      value="RADC"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 101 y 1.000"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Área funcional"
+      value="CONTROL DE RECAUDACIÓN"/>
+  <properties
+      key="Interfaz JACADA"
+      value="No"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Ambos"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="No"/>
+  <properties
+      key="Gestor de calidad"
+      value="TPAI"/>
+  <properties
+      key="Descripción"
+      value="• Movimientos de un sujeto obligado.• Impagados de un sujeto obligado.• Emisión de adeudos de un sujeto obligado."/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Tipo de impresión"
+      value="Varias"/>
+  <properties
+      key="Reutilización de código"
+      value="Sí"/>
+</archimate:ApplicationComponent>

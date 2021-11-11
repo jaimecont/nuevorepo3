@@ -1,0 +1,185 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CONTABILIDAD GERESS"
+    id="EAID_7D1E8621_5898_43c8_BB63_A29188FE00DC">
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="Sí"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Solo consulta"/>
+  <properties
+      key="Framework de presentación"
+      value="Framework 3"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Alto"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Alta"/>
+  <properties
+      key="Coordinador de área"
+      value="Elisa Orbegozo de Castro"/>
+  <properties
+      key="Punto de acceso"
+      value="Otros"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="Sí"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="No"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="No"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Crítico"/>
+  <properties
+      key="Versión"
+      value="16/11/2020"/>
+  <properties
+      key="Horas de correctivos en el último año completo"
+      value="200"/>
+  <properties
+      key="Cambio de configuración"
+      value="No es capaz"/>
+  <properties
+      key="Nº usuarios"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="No"/>
+  <properties
+      key="Nº de incidencias en el último año completo"
+      value="13"/>
+  <properties
+      key="Gestor Documental"
+      value="No"/>
+  <properties
+      key="Herramientas"
+      value="JCL"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Portales"
+      value="No"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="No"/>
+  <properties
+      key="Auditorías"
+      value="No"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Ninguno"/>
+  <properties
+      key="Nombre"
+      value="CONTABILIDAD GERESS"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="Sí"/>
+  <properties
+      key="Complejidad del código"
+      value="Media"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="No hay"/>
+  <properties
+      key="Horas de evolutivos en el último año completo"
+      value="1500"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="Sí"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Tradicional"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Alta"/>
+  <properties
+      key="Firma digital"
+      value="No"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="Héctor de Blás Beorlegui"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="Aurora Carranza Celis"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="María López Silleras"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Natural y Cobol"/>
+  <properties
+      key="Nº de peticiones en el último año completo"
+      value="76"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Nula"/>
+  <properties
+      key="Visibilidad"
+      value="Pública"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="01/06/2016"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Entre 11 y 15"/>
+  <properties
+      key="Código ROCHADE"
+      value="SECT"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Interfaz JACADA"
+      value="No"/>
+  <properties
+      key="Área funcional"
+      value="SEGUIMIENTO DE LA DEUDA"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Batch"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Gestor de calidad"
+      value="Ninguna"/>
+  <properties
+      key="Descripción"
+      value="Contabilidad de ingresos, cobros y liquidaciones GERESS"/>
+  <properties
+      key="Horas de soporte"
+      value="500"/>
+  <properties
+      key="Reutilización de código"
+      value="Sí"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="5 AÑOS"/>
+  <properties
+      key="Tipo de impresión"
+      value="Planificada"/>
+  <properties
+      key="Nº de subidas de correctivos/evolutivos a producción en el último año completo"
+      value="5"/>
+</archimate:ApplicationComponent>

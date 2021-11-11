@@ -1,0 +1,200 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SISTEMA NOTIFICACIONES SINT"
+    id="EAID_4BC0139A_CF83_435d_975A_6A9E14D722F9">
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="No"/>
+  <properties
+      key="Distribución"
+      value="Varios"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Actualización BBDD"/>
+  <properties
+      key="Framework de presentación"
+      value="Otros"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Alto"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Alta"/>
+  <properties
+      key="Coordinador de área"
+      value="Elisa Orbegozo de Castro"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Punto de acceso"
+      value="Varias"/>
+  <properties
+      key="Facilidad de uso"
+      value="Fácil de usar. En general no induce a errores y las pantallas son eficientes"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="Sí"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="Sí"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="No"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Versión"
+      value="31/05/2021"/>
+  <properties
+      key="Horas de correctivos en el último año completo"
+      value="350"/>
+  <properties
+      key="Cambio de configuración"
+      value="Ficheros de configuración"/>
+  <properties
+      key="Nº usuarios"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="NA"/>
+  <properties
+      key="Nº de incidencias en el último año completo"
+      value="68"/>
+  <properties
+      key="Gestor Documental"
+      value="Sí"/>
+  <properties
+      key="Herramientas"
+      value="JCL"/>
+  <properties
+      key="Generación de informes"
+      value="SR-BIRT"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Portales"
+      value="Sí"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="No"/>
+  <properties
+      key="Logs"
+      value="Repositorio de logs"/>
+  <properties
+      key="Auditorías"
+      value="Sí"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Varios"/>
+  <properties
+      key="Nombre"
+      value="SISTEMA NOTIFICACIONES SINT"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="No"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Suficiente"/>
+  <properties
+      key="Complejidad del código"
+      value="Alta"/>
+  <properties
+      key="Horas de evolutivos en el último año completo"
+      value="1200"/>
+  <properties
+      key="Framework de lógica de negocio"
+      value="Otros"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="Sí"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Tradicional"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Alta"/>
+  <properties
+      key="Firma digital"
+      value="Sí"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="Héctor de Blás Beorlegui"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="Ignacio Barriuso Manzano"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 101 y 1.000"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="María Elena Solís Caballero"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Natural"/>
+  <properties
+      key="Nº de peticiones en el último año completo"
+      value="47"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Nula"/>
+  <properties
+      key="Visibilidad"
+      value="Pública"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="07/03/2012"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Más de 15"/>
+  <properties
+      key="Código ROCHADE"
+      value="RSIN"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Interfaz JACADA"
+      value="Sí"/>
+  <properties
+      key="Área funcional"
+      value="SEGUIMIENTO DE LA DEUDA"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Ambos"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Gestor de calidad"
+      value="TPAI"/>
+  <properties
+      key="Descripción"
+      value="Sistema de notificaciones telemáticas por SEDE y SEDE/POSTAL"/>
+  <properties
+      key="Horas de soporte"
+      value="850"/>
+  <properties
+      key="Reutilización de código"
+      value="Sí"/>
+  <properties
+      key="Tipo de impresión"
+      value="Varias"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Nº de subidas de correctivos/evolutivos a producción en el último año completo"
+      value="35"/>
+</archimate:ApplicationComponent>

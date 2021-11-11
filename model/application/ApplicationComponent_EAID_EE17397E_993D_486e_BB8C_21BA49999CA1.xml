@@ -1,0 +1,197 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REASEGURO EXCESO PÉRDIDAS"
+    id="EAID_EE17397E_993D_486e_BB8C_21BA49999CA1">
+  <properties
+      key="Distribución"
+      value="Mainframe"/>
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="No"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Actualización BBDD"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Medio"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Baja"/>
+  <properties
+      key="Coordinador de área"
+      value="Jose Manuel Díaz Hernández"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Facilidad de uso"
+      value="Fácil de usar. En general no induce a errores y las pantallas son eficientes"/>
+  <properties
+      key="Punto de acceso"
+      value="Intranet"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="No"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="No"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="No"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Medio"/>
+  <properties
+      key="Versión"
+      value="25/11/2020"/>
+  <properties
+      key="Horas de correctivos en el último año completo"
+      value="0"/>
+  <properties
+      key="Cambio de configuración"
+      value="No es capaz"/>
+  <properties
+      key="Nº usuarios"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Nivel de deuda técnica"
+      value="Bajo"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="No"/>
+  <properties
+      key="Nº de incidencias en el último año completo"
+      value="0"/>
+  <properties
+      key="Gestor Documental"
+      value="No"/>
+  <properties
+      key="Herramientas"
+      value="Varias"/>
+  <properties
+      key="Generación de informes"
+      value="Listados"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Portales"
+      value="No"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="No"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Varios"/>
+  <properties
+      key="Logs"
+      value="No se generan logs"/>
+  <properties
+      key="Auditorías"
+      value="No"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="No"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Suficiente"/>
+  <properties
+      key="Nombre"
+      value="REASEGURO EXCESO PÉRDIDAS"/>
+  <properties
+      key="Complejidad del código"
+      value="Media"/>
+  <properties
+      key="Horas de evolutivos en el último año completo"
+      value="27"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="No"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Tradicional"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Baja"/>
+  <properties
+      key="Firma digital"
+      value="No"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="María José Pérez Jimeno"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="Alexandra Ramiro Barbero"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="María Ana Martínez Martín"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Natural"/>
+  <properties
+      key="Nº de peticiones en el último año completo"
+      value="1"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Baja"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Visibilidad"
+      value="Pública"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="01/01/1995"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Entre 1 y 5"/>
+  <properties
+      key="Código ROCHADE"
+      value="REDP"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Medio"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Área funcional"
+      value="AEGI"/>
+  <properties
+      key="Interfaz JACADA"
+      value="No"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Ambos"/>
+  <properties
+      key="Gestor de calidad"
+      value="TPAI"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Descripción"
+      value="Renovación y liquidación automatizada de los Convenios de Reaseguro de Exceso de Pérdidas que son ofertados a las Mutuas de A.T y E.P. colaboradoras con la Tesorería General de la Seguridad Social.Tiene como finalidad, el proporcionar las herramientas necesarias para poder llevar a cabo los estudios precisos para que la renovación y liquidación de los convenios sean lo más equilibradas posibles"/>
+  <properties
+      key="Horas de soporte"
+      value="0"/>
+  <properties
+      key="Tipo de impresión"
+      value="Varias"/>
+  <properties
+      key="Reutilización de código"
+      value="No"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Nº de subidas de correctivos/evolutivos a producción en el último año completo"
+      value="1"/>
+</archimate:ApplicationComponent>
