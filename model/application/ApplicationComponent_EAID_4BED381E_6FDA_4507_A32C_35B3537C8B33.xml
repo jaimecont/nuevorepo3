@@ -1,0 +1,203 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RECAUDACIÓN BI"
+    id="EAID_4BED381E_6FDA_4507_A32C_35B3537C8B33">
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="Sí"/>
+  <properties
+      key="Distribución"
+      value="Web"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Solo consulta"/>
+  <properties
+      key="Framework de presentación"
+      value="Otros"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Alto"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Baja"/>
+  <properties
+      key="Coordinador de área"
+      value="Mercedes Nocete Casado"/>
+  <properties
+      key="Punto de acceso"
+      value="Intranet"/>
+  <properties
+      key="Facilidad de uso"
+      value="Fácil de usar. En general no induce a errores y las pantallas son eficientes"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="Sí"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="No"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="No"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Versión"
+      value="05/07/2021"/>
+  <properties
+      key="Horas de correctivos en el último año completo"
+      value="0"/>
+  <properties
+      key="Cambio de configuración"
+      value="Ficheros de configuración"/>
+  <properties
+      key="Nº usuarios"
+      value="Entre 101 y 1.000"/>
+  <properties
+      key="Nivel de deuda técnica"
+      value="Bajo"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="No"/>
+  <properties
+      key="Nº de incidencias en el último año completo"
+      value="0"/>
+  <properties
+      key="Gestor Documental"
+      value="No"/>
+  <properties
+      key="Herramientas"
+      value="Ninguna"/>
+  <properties
+      key="Generación de informes"
+      value="Varios"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Portales"
+      value="No"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="No"/>
+  <properties
+      key="Auditorías"
+      value="Sí"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Ninguno"/>
+  <properties
+      key="Logs"
+      value="Filesystem"/>
+  <properties
+      key="Complejidad del código"
+      value="Alta"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="No hay"/>
+  <properties
+      key="Nombre"
+      value="RECAUDACIÓN BI"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="No"/>
+  <properties
+      key="Horas de evolutivos en el último año completo"
+      value="2400"/>
+  <properties
+      key="Framework de lógica de negocio"
+      value="Otros"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="No"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Tradicional"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Baja"/>
+  <properties
+      key="Firma digital"
+      value="No"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="María Luisa Castillo Lavado"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="Eduardo De Lamo Villar"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="Otros"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Teradata"/>
+  <properties
+      key="Nº de peticiones en el último año completo"
+      value="27"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Nula"/>
+  <properties
+      key="Visibilidad"
+      value="Privada"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="01/07/2016"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Más de 15"/>
+  <properties
+      key="Código ROCHADE"
+      value="CRTE - Información de Control Recaudación en Teradata_Microstrategy"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Interfaz JACADA"
+      value="No"/>
+  <properties
+      key="Área funcional"
+      value="CONTROL DE RECAUDACIÓN"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Ambos"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Gestor de calidad"
+      value="Ninguna"/>
+  <properties
+      key="Descripción"
+      value="Explotación de cuadros de mandos e informes para el control de las liquidaciones presentadas"/>
+  <properties
+      key="Horas de soporte"
+      value="1200"/>
+  <properties
+      key="Reutilización de código"
+      value="No"/>
+  <properties
+      key="Tipo de impresión"
+      value="Online"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Nº de subidas de correctivos/evolutivos a producción en el último año completo"
+      value="0"/>
+</archimate:ApplicationComponent>
