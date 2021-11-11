@@ -1,0 +1,185 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ACONTECIMIENTOS CATASTRÓFICOS"
+    id="EAID_DB7F8F9D_3D30_4c0a_A6D7_05545FCEC7C2">
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="No"/>
+  <properties
+      key="Distribución"
+      value="Mainframe"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Actualización BBDD"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Alto"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Alta"/>
+  <properties
+      key="Coordinador de área"
+      value="Elisa Orbegozo de Castro"/>
+  <properties
+      key="Punto de acceso"
+      value="Intranet"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Facilidad de uso"
+      value="Fácil de usar. En general no induce a errores y las pantallas son eficientes"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="No"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="Sí"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="No"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Medio"/>
+  <properties
+      key="Versión"
+      value="20/07/2021"/>
+  <properties
+      key="Cambio de configuración"
+      value="No es capaz"/>
+  <properties
+      key="Nº usuarios"
+      value="Entre 101 y 1.000"/>
+  <properties
+      key="Nº de incidencias en el último año completo"
+      value="15"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="NA"/>
+  <properties
+      key="Gestor Documental"
+      value="No"/>
+  <properties
+      key="Herramientas"
+      value="JCL"/>
+  <properties
+      key="Generación de informes"
+      value="Varios"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 101 y 1.000"/>
+  <properties
+      key="Portales"
+      value="No"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="No"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Ninguno"/>
+  <properties
+      key="Auditorías"
+      value="No"/>
+  <properties
+      key="Logs"
+      value="No se almacenan logs"/>
+  <properties
+      key="Complejidad del código"
+      value="Media"/>
+  <properties
+      key="Nombre"
+      value="ACONTECIMIENTOS CATASTRÓFICOS"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Suficiente"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="No"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="No"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Tradicional"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Alta"/>
+  <properties
+      key="Firma digital"
+      value="No"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="Héctor de Blás Beorlegui"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="Nuria Ruiz Sanz"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="Adolfo Bellver Álvarez"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Natural"/>
+  <properties
+      key="Nº de peticiones en el último año completo"
+      value="12"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Nula"/>
+  <properties
+      key="Visibilidad"
+      value="Pública"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="01/06/2001"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Entre 11 y 15"/>
+  <properties
+      key="Código ROCHADE"
+      value="RV14"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Medio"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Área funcional"
+      value="SEGUIMIENTO DE LA DEUDA"/>
+  <properties
+      key="Interfaz JACADA"
+      value="Sí"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Ambos"/>
+  <properties
+      key="Gestor de calidad"
+      value="Ninguna"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Descripción"
+      value="Gestiona moratorias, exenciones, diferimientos, bonificaciones o reducciones referidas a la cotización a la Seg-Social a las que se acoge una empresa afectada por alguna catástrofe natural declarada por normativa legal."/>
+  <properties
+      key="Tipo de impresión"
+      value="Varias"/>
+  <properties
+      key="Reutilización de código"
+      value="Sí"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Nº de subidas de correctivos/evolutivos a producción en el último año completo"
+      value="12"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,194 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CONSULTAS GENERALES"
+    id="EAID_8A66ABF6_36FD_4e3e_BEB5_36E2650D4476">
+  <properties
+      key="Distribución"
+      value="Mainframe"/>
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="No"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Solo consulta"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Medio"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Media"/>
+  <properties
+      key="Coordinador de área"
+      value="Elisa Orbegozo de Castro"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Punto de acceso"
+      value="Intranet"/>
+  <properties
+      key="Facilidad de uso"
+      value="Fácil de usar. En general no induce a errores y las pantallas son eficientes"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="No"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="Sí"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="No"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Versión"
+      value="28/07/2021"/>
+  <properties
+      key="Horas de correctivos en el último año completo"
+      value="0"/>
+  <properties
+      key="Cambio de configuración"
+      value="No es capaz"/>
+  <properties
+      key="Nº usuarios"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="NA"/>
+  <properties
+      key="Nº de incidencias en el último año completo"
+      value="0"/>
+  <properties
+      key="Gestor Documental"
+      value="No"/>
+  <properties
+      key="Herramientas"
+      value="Ninguna"/>
+  <properties
+      key="Generación de informes"
+      value="N/A"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Portales"
+      value="No"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="No"/>
+  <properties
+      key="Auditorías"
+      value="Sí"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Ninguno"/>
+  <properties
+      key="Logs"
+      value="Repositorio de logs"/>
+  <properties
+      key="Nombre"
+      value="CONSULTAS GENERALES"/>
+  <properties
+      key="Complejidad del código"
+      value="Media"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="No"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Suficiente"/>
+  <properties
+      key="Horas de evolutivos en el último año completo"
+      value="125"/>
+  <properties
+      key="Framework de lógica de negocio"
+      value="Mainframe"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="No"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Tradicional"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Media"/>
+  <properties
+      key="Firma digital"
+      value="No"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="Héctor de Blás Beorlegui"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="Adolfo Bellver Álvarez"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="Roberto Bayo Ransanz"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 101 y 1.000"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Natural"/>
+  <properties
+      key="Nº de peticiones en el último año completo"
+      value="4"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Nula"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Visibilidad"
+      value="Pública"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="03/10/2005"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Más de 15"/>
+  <properties
+      key="Código ROCHADE"
+      value="RV11"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Área funcional"
+      value="SEGUIMIENTO DE LA DEUDA"/>
+  <properties
+      key="Interfaz JACADA"
+      value="Sí"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Online"/>
+  <properties
+      key="Gestor de calidad"
+      value="TPAI"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Descripción"
+      value="Consultas de usuario de obligaciones, deudas y cobros"/>
+  <properties
+      key="Reutilización de código"
+      value="Sí"/>
+  <properties
+      key="Tipo de impresión"
+      value="N/A"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Nº de subidas de correctivos/evolutivos a producción en el último año completo"
+      value="4"/>
+</archimate:ApplicationComponent>

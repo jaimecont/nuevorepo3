@@ -1,0 +1,197 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SINIESTROS"
+    id="EAID_AAA16507_B17C_4d97_928C_22DD60E6459A">
+  <properties
+      key="Distribución"
+      value="Mainframe"/>
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="No"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Actualización BBDD"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Alto"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Baja"/>
+  <properties
+      key="Coordinador de área"
+      value="Jose Manuel Díaz Hernández"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Facilidad de uso"
+      value="Fácil de usar. En general no induce a errores y las pantallas son eficientes"/>
+  <properties
+      key="Punto de acceso"
+      value="Intranet"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="No"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="No"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="No"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Versión"
+      value="18/02/2021"/>
+  <properties
+      key="Horas de correctivos en el último año completo"
+      value="0"/>
+  <properties
+      key="Cambio de configuración"
+      value="No es capaz"/>
+  <properties
+      key="Nº usuarios"
+      value="Entre 101 y 1.000"/>
+  <properties
+      key="Nivel de deuda técnica"
+      value="Bajo"/>
+  <properties
+      key="Nº de incidencias en el último año completo"
+      value="0"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="No"/>
+  <properties
+      key="Gestor Documental"
+      value="Sí"/>
+  <properties
+      key="Herramientas"
+      value="Varias"/>
+  <properties
+      key="Generación de informes"
+      value="Varios"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Portales"
+      value="No"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="No"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Varios"/>
+  <properties
+      key="Logs"
+      value="No se generan logs"/>
+  <properties
+      key="Auditorías"
+      value="No"/>
+  <properties
+      key="Nombre"
+      value="SINIESTROS"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Suficiente"/>
+  <properties
+      key="Complejidad del código"
+      value="Media"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="No"/>
+  <properties
+      key="Horas de evolutivos en el último año completo"
+      value="0"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="Sí"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Tradicional"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Baja"/>
+  <properties
+      key="Firma digital"
+      value="No"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="María José Pérez Jimeno"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="LORENZO GUTIÉRREZ RAJO"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="Alexandra Ramiro Barbero"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Natural"/>
+  <properties
+      key="Nº de peticiones en el último año completo"
+      value="38"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Baja"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Visibilidad"
+      value="Pública"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="01/01/1995"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Entre 11 y 15"/>
+  <properties
+      key="Código ROCHADE"
+      value="SINI"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Interfaz JACADA"
+      value="No"/>
+  <properties
+      key="Área funcional"
+      value="AEGI"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Ambos"/>
+  <properties
+      key="Gestor de calidad"
+      value="TPAI"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Descripción"
+      value="Es el expediente abierto por la TGSS por un accidente laboral o enfermedad profesional. Puede ser individual, en el caso de que sólo haya una persona accidentada, o puede ser colectivo, cuando hay varias personas involucradas en el mismo siniestro como, por ejemplo, cuando se produce un accidente de tráfico (en el desplazamiento hasta o desde el lugar de trabajo o durante la jornada laboral)."/>
+  <properties
+      key="Horas de soporte"
+      value="0"/>
+  <properties
+      key="Tipo de impresión"
+      value="Varias"/>
+  <properties
+      key="Reutilización de código"
+      value="No"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Nº de subidas de correctivos/evolutivos a producción en el último año completo"
+      value="38"/>
+</archimate:ApplicationComponent>
